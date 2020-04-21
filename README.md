@@ -33,15 +33,15 @@
 <br>
 **Exampls how can you setup autorole**
 <br>
-**Use: lfyautorole members-`<on-off>` or bots-`<on-off>`**
+**Use: lfyautorole members-`<on off>` or bots-`<on off>`**
 <br>
-**Use: lfyautorole setmemberrole1 or 2 or 3 max `rolename` or `@role` or `roleid` to make autorole for members**
+**Use: lfyautorole setmemberrole`rolename` or `@role` or `roleid` to make autorole for members**
 <br>
-**Use: lfyautorole remoevmemberrole1 or 2 or 3 max `rolename` or `@role` or `roleid` to romove autorole for members**
+**Use: lfyautorole remoevmemberrole max `rolename` or `@role` or `roleid` to romove autorole for members**
 <br>
-**Use: lfyautorole autorole setbotsrole1 or 2 max `rolename` or `@role` or `roleid` to to make autorole for bots**
+**Use: lfyautorole autorole setbotsrole `rolename` or `@role` or `roleid` to to make autorole for bots**
 <br>
-**Use: lfyautorole removbotsrole1 or 2 `rolename` or `@role` or `roleid` to remove autorole for bots**
+**Use: lfyautorole removbotsrole `rolename` or `@role` or `roleid` to remove autorole for bots**
 <br> 
 <br>
 **Exampls how can you setup suggestions room**
@@ -53,6 +53,7 @@
 **Use: lfysuggestions settrueemoji `emoji id` to setup true emoji __Note you can't setup discord emoji only coustom emoji**
 <br>
 **Use: lfysuggestions setfalseemoji `emoji id` to setup true emoji __Note you can't setup discord emoji only coustom emoji**
+Note add emoji only for luffy premium
 <br>
 **you can add coustom emjis by type lfysuggestions setup**
 <br>
