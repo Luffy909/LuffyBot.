@@ -35,13 +35,9 @@
 <br>
 **Use: lfyautorole members-`<on off>` or bots-`<on off>`**
 <br>
-**Use: lfyautorole setmemberrole`rolename` or `@role` or `roleid` to make autorole for members**
+**Use: lfyautorole setmemberrole `rolename` or `@role` or `roleid` to make autorole for members**
 <br>
-**Use: lfyautorole remoevmemberrole max `rolename` or `@role` or `roleid` to romove autorole for members**
-<br>
-**Use: lfyautorole autorole setbotsrole `rolename` or `@role` or `roleid` to to make autorole for bots**
-<br>
-**Use: lfyautorole removbotsrole `rolename` or `@role` or `roleid` to remove autorole for bots**
+**Use: lfyautorole setbotsrole `rolename` or `@role` or `roleid` to to make autorole for bots**
 <br> 
 <br>
 **Exampls how can you setup suggestions room**
