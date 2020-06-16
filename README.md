@@ -15,7 +15,7 @@
 <h3>LuffyBot is a great bot for any server for moderation
 </h3>
 <br><h1>luffybot have a coustom welcomer you can select status and channel and message</h1>
-you can use `[user]` if you want the bot get the username.
+you can use ``[user]`` if you want the bot get the username.
 <img alt="[user]" src="https://cdn.discordapp.com/attachments/722399309706035250/722399349249671208/user.png">
 you can use `[usermention]` if you want the bot mention the user.
 <img alt="[usermention]" src="https://cdn.discordapp.com/attachments/722399309706035250/722399352248860782/usernention.png">
