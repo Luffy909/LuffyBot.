@@ -1,6 +1,6 @@
 # Luffy is the best
 
-<img alt="Lfy" src="https://cdn.discordapp.com/avatars/652156490819436544/315e971592329e6119f2dacec345d83d.png?size=1024">  
+<img alt="Lfy" width="150" height="150" src="https://cdn.discordapp.com/avatars/652156490819436544/315e971592329e6119f2dacec345d83d.png?size=1024">  
 
 
 <h2>LuffyBot is a fully foreign bot with some commands and things from other bots and developed by Arab developers, but the bot is rather complete.
