@@ -12,8 +12,8 @@
 5. Lfy is the first bot that has many advantages, the most important.<br>
 6. Lfy It provides orders that are not available in any other bot.<br>
 </h2>
-<h1>LuffyBot is a great bot for any server for moderation
-</h1>
+<h3>LuffyBot is a great bot for any server for moderation
+</h3>
 <br><h1>luffybot have a coustom welcomer you can select status and channel and message</h1>
 you can use `[user]` if you want the bot get the username.
 <img alt="[user]" src="https://cdn.discordapp.com/attachments/722399309706035250/722399349249671208/user.png">
