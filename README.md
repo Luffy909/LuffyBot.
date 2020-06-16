@@ -2,8 +2,8 @@
 
 
 
-<h1>LuffyBot is a fully foreign bot with some commands and things from other bots and developed by Arab developers, but the bot is rather complete.
-</h1>
+<h2>LuffyBot is a fully foreign bot with some commands and things from other bots and developed by Arab developers, but the bot is rather complete.
+</h2>
 <h2>1. Easy to use<br>
 2. Hosted on a vps so it has a quick connection to the discord<br>
 3. The bot is updated weekly to solve problems and add new features<br>
