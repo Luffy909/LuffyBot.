@@ -1,5 +1,4 @@
-<img alt="Lfy" width="150" height="150" src="https://cdn.discordapp.com/avatars/652156490819436544/315e971592329e6119f2dacec345d83d.png?
-size=1024">  
+<img alt="Lfy" width="150" height="150" src="https://cdn.discordapp.com/avatars/652156490819436544/315e971592329e6119f2dacec345d83d.png?size=1024">  
 
 
 # Luffy is the best
